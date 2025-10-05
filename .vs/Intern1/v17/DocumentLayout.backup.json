@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\Intern1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8E7008-05C0-4A1E-AE41-0CE6F0460DFD}|Intern1\\Intern1.vcxproj|C:\\Users\\PC\\source\\repos\\Intern1\\Intern1\\Intern1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FC8E7008-05C0-4A1E-AE41-0CE6F0460DFD}|Intern1\\Intern1.vcxproj|solutionrelative:Intern1\\Intern1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Intern1.cpp",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Intern1\\Intern1\\Intern1.cpp",
+              "RelativeDocumentMoniker": "Intern1\\Intern1.cpp",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Intern1\\Intern1\\Intern1.cpp",
+              "RelativeToolTip": "Intern1\\Intern1.cpp",
+              "ViewState": "AgIAAFoBAAAAAAAAAAAAAEkBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-03T16:45:43.499Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

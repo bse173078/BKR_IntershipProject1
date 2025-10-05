@@ -1,0 +1,7 @@
+﻿  Intern1.cpp
+C:\Users\PC\source\repos\Intern1\Intern1\Intern1.cpp(8,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\PC\source\repos\Intern1\Intern1\Intern1.cpp(356,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\PC\source\repos\Intern1\Intern1\Intern1.cpp(360,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\PC\source\repos\Intern1\Intern1\Intern1.cpp(364,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\PC\source\repos\Intern1\Intern1\Intern1.cpp(368,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Intern1.vcxproj -> C:\Users\PC\source\repos\Intern1\x64\Debug\Intern1.exe
